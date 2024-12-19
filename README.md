@@ -10,3 +10,8 @@ The primary objective of this project is to develop a deep learning-based binary
  1 .Evaluating the performance of different deep learning architectures.
  2. Identifying challenges associated with the dataset and implementation.
  3. Proposing future enhancements to improve model accuracy and usability.
+
+# Data Set
+
+https://paperswithcode.com/dataset/chestx-ray8
+https://www.kaggle.com/datasets/nih-chest-xrays/data

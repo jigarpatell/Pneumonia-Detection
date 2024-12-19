@@ -13,5 +13,5 @@ The primary objective of this project is to develop a deep learning-based binary
 
 # Data Set
 
-https://paperswithcode.com/dataset/chestx-ray8
-https://www.kaggle.com/datasets/nih-chest-xrays/data
+1. https://paperswithcode.com/dataset/chestx-ray8
+2. https://www.kaggle.com/datasets/nih-chest-xrays/data
